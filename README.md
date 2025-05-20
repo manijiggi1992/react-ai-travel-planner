@@ -15,6 +15,9 @@
 ## React Router
 `Documentation:` https://reactrouter.com/start/data/installation<br><br>
 
+## react-google-places-autocomplete
+`Documentation:` https://www.npmjs.com/package/react-google-places-autocomplete<br>
+
 # Others
 https://logoipsum.com/
 <img width="1758" alt="Screenshot 2025-05-20 at 4 53 20 PM" src="https://github.com/user-attachments/assets/afe92de0-fc3d-4ace-8433-346daee1aaf2" />
