@@ -19,8 +19,13 @@
 `Documentation:` https://www.npmjs.com/package/react-google-places-autocomplete<br>
 
 # Others
+`Sample Logo:`
 https://logoipsum.com/
 <img width="1758" alt="Screenshot 2025-05-20 at 4 53 20 PM" src="https://github.com/user-attachments/assets/afe92de0-fc3d-4ace-8433-346daee1aaf2" />
+
+`Emoji copy paste:`
+https://emojipedia.org/
+<img width="1785" alt="Screenshot 2025-05-21 at 7 06 21 PM" src="https://github.com/user-attachments/assets/086bdc6a-458d-4632-81c9-a6dfb5dc4a78" />
 
 
 # React
