@@ -28,7 +28,8 @@
 
 ## Google Gemini API:
 `Chat-Playground:` https://aistudio.google.com/prompts/new_chat
-<img width="1750" alt="Screenshot 2025-05-22 at 7 47 02 PM" src="https://github.com/user-attachments/assets/b5fd155a-7ac2-466f-be6f-c833db56c1f8" />
+<img width="1769" alt="Screenshot 2025-05-22 at 8 02 53 PM" src="https://github.com/user-attachments/assets/cc587e13-f6cd-4d48-876d-70868a4c2868" />
+
 
 
 ## Sample Logo:
