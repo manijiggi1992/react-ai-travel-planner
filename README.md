@@ -19,18 +19,22 @@
 `Documentation:` https://www.npmjs.com/package/react-google-places-autocomplete<br>
 
 # Others
-`Google Place API`:
+## Google Place API:
 `Email:` manibin92@gmail.com<br>
 `API Key`: https://console.cloud.google.com/google/maps-apis/credentials?inv=1&invt=AbyE_w&project=enhanced-storm-460414-j4<br>
 <img width="1780" alt="Screenshot 2025-05-22 at 7 23 46 PM" src="https://github.com/user-attachments/assets/86567a52-1e7d-4688-93a8-cfae749b6631" /><br>
 <img width="1788" alt="Screenshot 2025-05-22 at 7 22 44 PM" src="https://github.com/user-attachments/assets/b4e43259-52e1-462b-8bc0-cfbd7e147721" /><br>
 
+## Google Gemini API:
+`Chat-Playground:` https://aistudio.google.com/prompts/new_chat
+<img width="1750" alt="Screenshot 2025-05-22 at 7 47 02 PM" src="https://github.com/user-attachments/assets/b5fd155a-7ac2-466f-be6f-c833db56c1f8" />
 
-`Sample Logo:`
+
+## Sample Logo:
 https://logoipsum.com/
 <img width="1758" alt="Screenshot 2025-05-20 at 4 53 20 PM" src="https://github.com/user-attachments/assets/afe92de0-fc3d-4ace-8433-346daee1aaf2" />
 
-`Emoji copy paste:`
+## Emoji copy paste:
 https://emojipedia.org/
 <img width="1785" alt="Screenshot 2025-05-21 at 7 06 21 PM" src="https://github.com/user-attachments/assets/086bdc6a-458d-4632-81c9-a6dfb5dc4a78" />
 
