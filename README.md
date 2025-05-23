@@ -18,6 +18,9 @@
 ## react-google-places-autocomplete
 `Documentation:` https://www.npmjs.com/package/react-google-places-autocomplete<br>
 
+## @react-oauth/google
+`Documentation:` https://www.npmjs.com/package/@react-oauth/google
+
 # Others
 ## Google Place API:
 `Email:` manibin92@gmail.com<br>
