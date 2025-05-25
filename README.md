@@ -12,7 +12,13 @@
 `Documentation:` https://reactrouter.com/start/data/installation<br><br>
 
 ## react-google-places-autocomplete
+#### Google Place API:
+`Email:` manibin92@gmail.com<br>
 `Documentation:` https://www.npmjs.com/package/react-google-places-autocomplete<br>
+`API Key`: https://console.cloud.google.com/google/maps-apis/credentials?inv=1&invt=AbyE_w&project=enhanced-storm-460414-j4<br>
+`Installation`: https://ai.google.dev/gemini-api/docs/quickstart?lang=rest<br>
+<img width="1780" alt="Screenshot 2025-05-22 at 7 23 46 PM" src="https://github.com/user-attachments/assets/86567a52-1e7d-4688-93a8-cfae749b6631" /><br>
+<img width="1788" alt="Screenshot 2025-05-22 at 7 22 44 PM" src="https://github.com/user-attachments/assets/b4e43259-52e1-462b-8bc0-cfbd7e147721" /><br>
 
 ## @react-oauth/google
 `Email:` manibin92@gmail.com<br>
@@ -25,12 +31,6 @@
 
 
 # Others
-## Google Place API:
-`Email:` manibin92@gmail.com<br>
-`API Key`: https://console.cloud.google.com/google/maps-apis/credentials?inv=1&invt=AbyE_w&project=enhanced-storm-460414-j4<br>
-`Installation`: https://ai.google.dev/gemini-api/docs/quickstart?lang=rest<br>
-<img width="1780" alt="Screenshot 2025-05-22 at 7 23 46 PM" src="https://github.com/user-attachments/assets/86567a52-1e7d-4688-93a8-cfae749b6631" /><br>
-<img width="1788" alt="Screenshot 2025-05-22 at 7 22 44 PM" src="https://github.com/user-attachments/assets/b4e43259-52e1-462b-8bc0-cfbd7e147721" /><br>
 
 ## Google Gemini API:
 `Chat-Playground:` https://aistudio.google.com/prompts/new_chat
