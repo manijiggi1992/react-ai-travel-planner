@@ -43,6 +43,11 @@
 ![Screenshot 2025-05-25 at 2 29 38 PM](https://github.com/user-attachments/assets/bd06a463-a3e8-4b4e-adac-c836bcc7939a)
 ### Add data to Cloud Firestore
 `Documantation:` https://firebase.google.com/docs/firestore/manage-data/add-data<br>
+`database collection:` https://console.firebase.google.com/project/react-ai-travel-planner/firestore/databases/-default-/data/~2FAITrips~2F1748168561951<br>
+<img width="1786" alt="Screenshot 2025-05-25 at 2 33 14 PM" src="https://github.com/user-attachments/assets/14113de7-5c76-44d6-a02d-74b17347c5f0" />
+<img width="1792" alt="Screenshot 2025-05-25 at 2 34 15 PM" src="https://github.com/user-attachments/assets/0c909e6e-2596-4184-ae6f-8d0e7cf61c10" />
+<img width="1792" alt="Screenshot 2025-05-25 at 3 56 43 PM" src="https://github.com/user-attachments/assets/0a94a872-90c0-4ab1-a0d0-97d0c837fd8d" />
+
 
 
 
