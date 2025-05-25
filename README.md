@@ -28,6 +28,8 @@
 <img width="1792" alt="Screenshot 2025-05-25 at 11 42 25 AM" src="https://github.com/user-attachments/assets/a0ccf5c7-febc-4410-ba54-dce55e6e75fb" />
 <img width="1792" alt="Screenshot 2025-05-25 at 11 43 39 AM" src="https://github.com/user-attachments/assets/c40081d6-da44-4416-b8c6-83297d3a1299" />
 <img width="1792" alt="Screenshot 2025-05-25 at 11 44 49 AM" src="https://github.com/user-attachments/assets/d8a9e16e-d6b7-4799-bd7c-1ef8aa54e88b" />
+<img width="1792" alt="Screenshot 2025-05-25 at 11 51 26 AM" src="https://github.com/user-attachments/assets/a8762639-4ecc-453f-a1c8-de770a6333d3" />
+
 
 
 # Others
