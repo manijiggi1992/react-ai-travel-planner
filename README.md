@@ -40,6 +40,9 @@
 <img width="1784" alt="Screenshot 2025-05-25 at 2 22 28 PM" src="https://github.com/user-attachments/assets/56c77756-e328-4ccb-8c5a-cf8fbf91a4b4" />
 <img width="1785" alt="Screenshot 2025-05-25 at 2 22 44 PM" src="https://github.com/user-attachments/assets/650628aa-3e8d-4884-9add-57aaaa951c5f" />
 <img width="1786" alt="Screenshot 2025-05-25 at 2 22 54 PM" src="https://github.com/user-attachments/assets/9a3bf218-c66b-4c2a-8ad8-d472fb1950f8" />
+![Screenshot 2025-05-25 at 2 29 38 PM](https://github.com/user-attachments/assets/bd06a463-a3e8-4b4e-adac-c836bcc7939a)
+### Add data to Cloud Firestore
+`Documantation:` https://firebase.google.com/docs/firestore/manage-data/add-data<br>
 
 
 
