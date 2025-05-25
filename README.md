@@ -32,6 +32,7 @@
 
 ## react-icons
 `Documentation:` https://www.npmjs.com/package/react-icons<br>
+`Icons collection:` https://react-icons.github.io/react-icons/<br>
 
 
 # Others
