@@ -35,6 +35,13 @@
 `Documentation:` https://www.npmjs.com/package/react-icons<br>
 `Icons collection:` https://react-icons.github.io/react-icons/<br>
 
+## firebase
+`console:` https://console.firebase.google.com/project/react-ai-travel-planner/settings/general/web:MjIyNDA2ZDQtZDY1MC00YTczLThjNDEtODIyY2Y3MzQ4ZjI1
+<img width="1784" alt="Screenshot 2025-05-25 at 2 22 28 PM" src="https://github.com/user-attachments/assets/56c77756-e328-4ccb-8c5a-cf8fbf91a4b4" />
+<img width="1785" alt="Screenshot 2025-05-25 at 2 22 44 PM" src="https://github.com/user-attachments/assets/650628aa-3e8d-4884-9add-57aaaa951c5f" />
+<img width="1786" alt="Screenshot 2025-05-25 at 2 22 54 PM" src="https://github.com/user-attachments/assets/9a3bf218-c66b-4c2a-8ad8-d472fb1950f8" />
+
+
 
 # Others
 
