@@ -22,7 +22,8 @@
 
 ## @react-oauth/google
 `Email:` manibin92@gmail.com<br>
-`Documentation:` https://www.npmjs.com/package/@react-oauth/google
+`Documentation:` https://www.npmjs.com/package/@react-oauth/google<br>
+`Google API Client id:` https://console.cloud.google.com/auth/clients?inv=1&invt=AbyUqw&project=gen-lang-client-0623606670<br>
 <img width="805" alt="Screenshot 2025-05-25 at 11 46 00 AM" src="https://github.com/user-attachments/assets/4d68869e-9e37-44b5-af6e-e45bff3804ae" />
 <img width="1792" alt="Screenshot 2025-05-25 at 11 41 48 AM" src="https://github.com/user-attachments/assets/8d97b039-3a5a-484b-8cd8-7f1ee618a9e1" />
 <img width="1792" alt="Screenshot 2025-05-25 at 11 42 25 AM" src="https://github.com/user-attachments/assets/a0ccf5c7-febc-4410-ba54-dce55e6e75fb" />
