@@ -1,9 +1,5 @@
 # NPM Packages
 
-## Create project using Vite
-`Getting Started:` https://vite.dev/guide/<br><br>
-![Screenshot_2025-05-12-20-27-19-84_f9ee0578fe1cc94de7482bd41accb329](https://github.com/user-attachments/assets/aae42fc8-96ee-4f49-93b9-9a6dfd069562)
-
 ## shadcn/ui
 `Documentation:` https://ui.shadcn.com/<br>
 `Components`: https://ui.shadcn.com/docs/components/accordion<br><br>
@@ -33,8 +29,6 @@
 `Chat-Playground:` https://aistudio.google.com/prompts/new_chat
 <img width="1769" alt="Screenshot 2025-05-22 at 8 02 53 PM" src="https://github.com/user-attachments/assets/cc587e13-f6cd-4d48-876d-70868a4c2868" />
 
-
-
 ## Sample Logo:
 https://logoipsum.com/
 <img width="1758" alt="Screenshot 2025-05-20 at 4 53 20 PM" src="https://github.com/user-attachments/assets/afe92de0-fc3d-4ace-8433-346daee1aaf2" />
@@ -45,3 +39,6 @@ https://emojipedia.org/
 
 
 # React
+## Create React project using Vite
+`Getting Started:` https://vite.dev/guide/<br><br>
+![Screenshot_2025-05-12-20-27-19-84_f9ee0578fe1cc94de7482bd41accb329](https://github.com/user-attachments/assets/aae42fc8-96ee-4f49-93b9-9a6dfd069562)
