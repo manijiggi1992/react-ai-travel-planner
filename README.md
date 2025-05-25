@@ -30,6 +30,8 @@
 <img width="1792" alt="Screenshot 2025-05-25 at 11 44 49 AM" src="https://github.com/user-attachments/assets/d8a9e16e-d6b7-4799-bd7c-1ef8aa54e88b" />
 <img width="1792" alt="Screenshot 2025-05-25 at 11 51 26 AM" src="https://github.com/user-attachments/assets/a8762639-4ecc-453f-a1c8-de770a6333d3" />
 
+## react-icons
+`Documentation:` https://www.npmjs.com/package/react-icons<br>
 
 
 # Others
