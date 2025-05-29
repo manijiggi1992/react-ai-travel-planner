@@ -57,6 +57,11 @@
 `Chat-Playground:` https://aistudio.google.com/prompts/new_chat
 <img width="1769" alt="Screenshot 2025-05-22 at 8 02 53 PM" src="https://github.com/user-attachments/assets/cc587e13-f6cd-4d48-876d-70868a4c2868" />
 
+## Google Map Integration:
+`Documentation:` https://developers.google.com/maps/documentation/urls/get-started<br>
+<img width="1039" alt="Screenshot 2025-05-29 at 6 45 04 PM" src="https://github.com/user-attachments/assets/a9b0e79b-293c-4522-b0d0-f1190c96e427" />
+
+
 ## Sample Logo:
 https://logoipsum.com/
 <img width="1758" alt="Screenshot 2025-05-20 at 4 53 20 PM" src="https://github.com/user-attachments/assets/afe92de0-fc3d-4ace-8433-346daee1aaf2" />
@@ -64,6 +69,8 @@ https://logoipsum.com/
 ## Emoji copy paste:
 https://emojipedia.org/
 <img width="1785" alt="Screenshot 2025-05-21 at 7 06 21 PM" src="https://github.com/user-attachments/assets/086bdc6a-458d-4632-81c9-a6dfb5dc4a78" />
+
+
 
 
 # React
