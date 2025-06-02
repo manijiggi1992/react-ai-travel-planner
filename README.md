@@ -62,6 +62,11 @@
 <img width="1039" alt="Screenshot 2025-05-29 at 6 45 04 PM" src="https://github.com/user-attachments/assets/a9b0e79b-293c-4522-b0d0-f1190c96e427" />
 <img width="1039" alt="Screenshot 2025-05-29 at 6 45 04 PM" src="https://github.com/user-attachments/assets/ceb37bc5-9009-4840-afff-a3c7b4cb5594" />
 
+## Google Photo URL:
+`Documentation:` 
+https://developers.google.com/maps/documentation/places/web-service/text-search<br>
+https://developers.google.com/maps/documentation/places/web-service/place-photos<br>
+
 
 
 ## Sample Logo:
