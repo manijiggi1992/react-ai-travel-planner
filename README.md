@@ -7,9 +7,7 @@
 <img width="1512" alt="Screenshot 2025-05-19 at 11 43 25 AM" src="https://github.com/user-attachments/assets/4a614a56-c6a1-4cad-95de-570abc2a63ff" />
 <img width="1449" alt="Screenshot 2025-05-19 at 11 43 36 AM" src="https://github.com/user-attachments/assets/43855bf6-9974-4cb8-9d89-9ebab9477247" />
 <img width="1475" alt="Screenshot 2025-05-19 at 11 44 36 AM" src="https://github.com/user-attachments/assets/24f8ead6-3dec-49e4-8e2b-703d83586cff" />
-![Screenshot_2025-06-02-20-33-41-19](https://github.com/user-attachments/assets/7f3167d8-3b4e-419d-b6a3-a0fa3890f6a3)
-
-
+<img width="720" alt="Screenshot 2025-06-01 at 11 44 36 AM" src="https://github.com/user-attachments/assets/ef6f792f-c552-45cb-8fca-f87027c84c67" />
 
 ## React Router
 `Documentation:` https://reactrouter.com/start/data/installation<br><br>
@@ -52,8 +50,6 @@
 <img width="1792" alt="Screenshot 2025-05-25 at 3 56 43 PM" src="https://github.com/user-attachments/assets/0a94a872-90c0-4ab1-a0d0-97d0c837fd8d" />
 
 
-
-
 # Others
 
 ## Google Gemini API:
@@ -69,8 +65,7 @@
 `Documentation:` 
 https://developers.google.com/maps/documentation/places/web-service/text-search<br>
 https://developers.google.com/maps/documentation/places/web-service/place-photos<br>
-
-
+<img width="720" alt="Screenshot 2025-05-25 at 11 51 26 AM" src="https://github.com/user-attachments/assets/fd19908a-781f-425b-8384-73d04d161a95" />
 
 ## Sample Logo:
 https://logoipsum.com/
