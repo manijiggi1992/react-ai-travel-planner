@@ -90,3 +90,17 @@ Login using Github: manijiggi1992/maniit.p@gmail.com
 ## Create React project using Vite
 `Getting Started:` https://vite.dev/guide/<br><br>
 ![Screenshot_2025-05-12-20-27-19-84_f9ee0578fe1cc94de7482bd41accb329](https://github.com/user-attachments/assets/aae42fc8-96ee-4f49-93b9-9a6dfd069562)
+
+# Screenshots:
+<img width="1782" alt="Screenshot 2025-06-06 at 8 20 08 PM" src="https://github.com/user-attachments/assets/77f11a30-e8ce-42ff-802a-0f37a4784660" />
+<img width="1786" alt="Screenshot 2025-06-06 at 8 20 58 PM" src="https://github.com/user-attachments/assets/0ccbb5ef-83c2-402e-887b-fe6ac075dccb" />
+<img width="1792" alt="Screenshot 2025-06-06 at 8 21 21 PM" src="https://github.com/user-attachments/assets/013bbd54-4b16-43e8-8736-9662bbab4be2" />
+<img width="1792" alt="Screenshot 2025-06-06 at 8 26 45 PM" src="https://github.com/user-attachments/assets/7acb5941-17d6-46cf-b672-7acf04d7b703" />
+<img width="1792" alt="Screenshot 2025-06-06 at 8 26 55 PM" src="https://github.com/user-attachments/assets/4f0c173e-ee98-4a3a-ac69-4706e6edc1dd" />
+<img width="1792" alt="Screenshot 2025-06-06 at 8 27 06 PM" src="https://github.com/user-attachments/assets/861fcbde-a9b6-499b-ab2c-a228da32e7ee" />
+
+
+
+
+
+
