@@ -4,7 +4,7 @@ import { Link } from "react-router";
 
 function Hero() {
   return (
-    <div className="flex items-center mx-56 gap-9">
+    <div className="flex flex-col items-center mx-56 gap-9">
       <h1 className="font-extrabold text-[60px] text-center mt-16">
         <span className="text-[#f56551]">
           Discover Your Next Adventure with Al:
@@ -18,6 +18,8 @@ function Hero() {
           <Button>Get Started, It's Free</Button>
         </Link>
       </h1>
+
+      <img src="/landing.png" className="h-[800px] object-cover rounded-2xl"/>
     </div>
   );
 }
