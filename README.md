@@ -49,6 +49,10 @@
 <img width="1792" alt="Screenshot 2025-05-25 at 2 34 15 PM" src="https://github.com/user-attachments/assets/0c909e6e-2596-4184-ae6f-8d0e7cf61c10" />
 <img width="1792" alt="Screenshot 2025-05-25 at 3 56 43 PM" src="https://github.com/user-attachments/assets/0a94a872-90c0-4ab1-a0d0-97d0c837fd8d" />
 
+### Get all document in Firebase
+`Documantation`:https://firebase.google.com/docs/firestore/query-data/get-data
+<img width="1410" alt="Screenshot 2025-06-06 at 3 07 42 PM" src="https://github.com/user-attachments/assets/4a494cb6-3172-4003-b7a3-a341797fa8a3" />
+
 
 # Others
 
