@@ -79,8 +79,8 @@ https://logoipsum.com/
 https://emojipedia.org/
 <img width="1785" alt="Screenshot 2025-05-21 at 7 06 21 PM" src="https://github.com/user-attachments/assets/086bdc6a-458d-4632-81c9-a6dfb5dc4a78" />
 
-
-
+## Vercel Login:
+Login using Github: manijiggi1992/maniit.p@gmail.com
 
 # React
 ## Create React project using Vite
